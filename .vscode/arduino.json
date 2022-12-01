@@ -1,0 +1,6 @@
+{
+    "port": "COM11",
+    "board": "arduino:avr:uno",
+    "programmer": "arduino:avrispmkii",
+    "sketch": "..\\GT5X-master\\examples\\image_to_pc\\image_to_pc.ino"
+}
